@@ -69,7 +69,7 @@ const ContactAndEnquiry = () => {
               </div>
               <div className="flex items-center mb-3">
                 <i className="fas fa-envelope text-yellow-400 mr-3"></i>
-                <p>vsfitness2023@gmail.com</p>
+                <p>vsfitness2024@gmail.com</p>
               </div>
             </div>
 
